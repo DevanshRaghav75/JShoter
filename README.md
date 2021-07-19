@@ -15,6 +15,7 @@
 
 ### Finding JS files
 
+Command:
 ```
 $ jshoter https://yahoo.com
 ```
