@@ -11,6 +11,13 @@
 
 **JShoter** extracts only **JavaScript** files from the given URL, **for ex.** https://example.com/core/web_pack/js/1234567_main_.js
 
+## Installation
+```
+$ git clone https://github.com/DevanshRaghav75/JShoter.git
+$ cd JShoter
+$ python3 setup.py install
+$ jshoter -h 
+```
 ## Usage
 
 ### Finding JS files
